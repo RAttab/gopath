@@ -3,7 +3,7 @@
 package path_test
 
 import (
-	"github.com/datacratic/gopath/path"
+	"github.com/RAttab/gopath/path"
 
 	"fmt"
 	"reflect"
